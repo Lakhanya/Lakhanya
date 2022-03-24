@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lakhanya
+- 👋 Hi, I’m @Lakhanya alx-pre_course
 - 👀 I’m interested in ... mental and phsycial activity
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Data Analysis and Python Fundamentals
+- 🌱 I’m currently learning ... Full Stack through ALX 
+- 💞️ I’m looking to collaborate on ... C, JAVA & Python Fundamentals
 - 📫 How to reach me ...
 
 <!---
